@@ -71,7 +71,7 @@ public class Server implements ActionListener {
         morevert.setBounds(420, 20, 10,25);
         p1.add(morevert);
 
-        JLabel name = new JLabel("Nigga");
+        JLabel name = new JLabel("Server");
         name.setBounds(110, 5, 100, 30);
         name.setForeground(Color.WHITE);
         name.setFont(new Font("SAN_SERIF", Font.BOLD, 18));
